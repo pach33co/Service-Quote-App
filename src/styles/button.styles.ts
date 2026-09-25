@@ -6,7 +6,7 @@ import { typography } from "./typography";
 
 export const buttonStyles = StyleSheet.create({
     container: {
-        padding: spacing.mmd,
+        padding: spacing.smd,
         borderRadius: 16,
         backgroundColor: colors.primary,
         flexDirection: "row",

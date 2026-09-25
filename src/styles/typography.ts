@@ -11,5 +11,9 @@ export const typography = {
     button: {
         fontSize: 14,
         fontFamily: 'Lato_700Bold',
+    },
+    InputText: {
+        fontSize: 16,
+        fontFamily: 'Lato_400Regular',
     }
 };
